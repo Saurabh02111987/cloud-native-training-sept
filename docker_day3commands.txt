@@ -1,0 +1,7 @@
+docker network ls
+
+docker network create banking-network
+
+docker pull postgres:18
+
+docker network inspect banking-networ
